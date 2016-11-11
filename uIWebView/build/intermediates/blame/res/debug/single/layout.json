@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uIWebView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\uIWebView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uIWebView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uIWebView\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uIWebView\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\uIWebView\\src\\main\\res\\layout\\main.xml"
+    }
+]

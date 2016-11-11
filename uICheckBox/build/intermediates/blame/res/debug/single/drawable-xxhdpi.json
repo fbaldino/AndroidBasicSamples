@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uICheckBox\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uICheckBox\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uICheckBox\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\uICheckBox\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uICheckBox\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\uICheckBox\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

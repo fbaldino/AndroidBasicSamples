@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\grid_fragment.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\uITabLayout\\src\\main\\res\\layout\\grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\uITabLayout\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\grid_fragment.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uITabLayout\\src\\main\\res\\layout\\grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\grid_fragment.xml",
+        "source": "D:\\felipe\\Android\\felipe\\uITabLayout\\src\\main\\res\\layout\\grid_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\uITabLayout\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uITabLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uITabLayout\\src\\main\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,131 @@
+[
+    {
+        "outputFile": "D:\\felipe\\Android\\BasicUI\\bcastRecSinBcastDynReg\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 88,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 68,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 68,
+                        "endOffset": 208
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\felipe\\bcastRecSinBcastDynReg\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 88,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 68,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 68,
+                        "endOffset": 208
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\AndroidBasicSamples\\bcastRecSinBcastDynReg\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 88,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 88,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 68,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\bcastRecSinBcastDynReg\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 144,
+                        "endColumn": 68,
+                        "endOffset": 208
+                    }
+                }
+            }
+        ]
+    }
+]

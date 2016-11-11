@@ -1,0 +1,194 @@
+[
+    {
+        "outputFile": "D:\\felipe\\Android\\felipe\\uISpinner\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 46,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 65,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 65,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\AndroidBasicSamples\\uISpinner\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 46,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 65,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 65,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\BasicUI\\uISpinner\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endLine": 11,
+                        "endColumn": 19,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 46,
+                    "endOffset": 340
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 65,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\uISpinner\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 65,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]

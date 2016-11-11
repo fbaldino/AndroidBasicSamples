@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\alarmCreate\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\alarmCreate\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\alarmCreate\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\alarmCreate\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\alarmCreate\\src\\main\\res\\layout\\main.xml"
+    }
+]

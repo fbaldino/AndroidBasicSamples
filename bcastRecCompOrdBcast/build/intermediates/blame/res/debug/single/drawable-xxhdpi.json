@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\bcastRecCompOrdBcast\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\bcastRecCompOrdBcast\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\bcastRecCompOrdBcast\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\bcastRecCompOrdBcast\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\bcastRecCompOrdBcast\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\bcastRecCompOrdBcast\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

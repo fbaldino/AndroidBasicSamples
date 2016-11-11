@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\title_menu.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\title_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\quote_menu.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\quote_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\quote_menu.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\quote_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\quote_menu.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\quote_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\activity_menu.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\activity_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\title_menu.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\title_menu.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\menu\\title_menu.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\menu\\title_menu.xml"
+    }
+]

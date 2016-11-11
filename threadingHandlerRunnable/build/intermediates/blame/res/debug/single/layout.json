@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\threadingHandlerRunnable\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\threadingHandlerRunnable\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\threadingHandlerRunnable\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\threadingHandlerRunnable\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\threadingHandlerRunnable\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\threadingHandlerRunnable\\src\\main\\res\\layout\\main.xml"
+    }
+]

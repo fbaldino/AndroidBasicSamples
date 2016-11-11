@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uIRadioGroup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uIRadioGroup\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uIRadioGroup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\uIRadioGroup\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uIRadioGroup\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\uIRadioGroup\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

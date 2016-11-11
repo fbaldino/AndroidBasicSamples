@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\detail_fragment.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\detail_fragment.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\detail_fragment.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\layout\\list_item.xml"
+    }
+]

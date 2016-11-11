@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\layout\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\layout\\title_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\layout\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\layout\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\build\\intermediates\\res\\merged\\debug\\layout\\title_item.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\layout\\title_item.xml"
+    }
+]

@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Nov 04 09:00:41 BRST 2016
+2.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+1.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\alarm_rooster.mp3
+1.set=ANDROID_RESOURCE
+2.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\felipe\\Android\\felipe\\alarmCreate\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

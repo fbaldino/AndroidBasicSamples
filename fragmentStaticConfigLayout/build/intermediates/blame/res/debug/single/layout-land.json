@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_item.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\list_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_item.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\list_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\list_item.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\list_item.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\quote_fragment.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticConfigLayout\\build\\intermediates\\res\\merged\\debug\\layout-land\\quote_fragment.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticConfigLayout\\src\\main\\res\\layout-land\\quote_fragment.xml"
+    }
+]

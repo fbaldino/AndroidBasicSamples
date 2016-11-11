@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uISampler\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_button.xml",
+        "source": "D:\\felipe\\Android\\felipe\\uISampler\\src\\main\\res\\drawable-nodpi\\android_button.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uISampler\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_button.xml",
+        "source": "D:\\felipe\\Android\\BasicUI\\uISampler\\src\\main\\res\\drawable-nodpi\\android_button.xml"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uISampler\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\android_button.xml",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uISampler\\src\\main\\res\\drawable-nodpi\\android_button.xml"
+    }
+]

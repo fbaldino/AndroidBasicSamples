@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uITimePickerFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\uITimePickerFragment\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uITimePickerFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\uITimePickerFragment\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uITimePickerFragment\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uITimePickerFragment\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

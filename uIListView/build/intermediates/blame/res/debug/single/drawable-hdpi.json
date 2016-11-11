@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\uIListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\uIListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\uIListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\uIListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\uIListView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\uIListView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

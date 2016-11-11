@@ -1,0 +1,245 @@
+[
+    {
+        "outputFile": "D:\\felipe\\Android\\felipe\\audioVideoRingtoneManager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 46,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 60,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 60,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 52,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 52,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\BasicUI\\audioVideoRingtoneManager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 46,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 60,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 60,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 52,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 52,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\AndroidBasicSamples\\audioVideoRingtoneManager\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 233,
+                        "endColumn": 46,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 62,
+                    "endOffset": 160
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 60,
+                    "endOffset": 221
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 60,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 226,
+                    "endColumn": 52,
+                    "endOffset": 274
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\audioVideoRingtoneManager\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 52,
+                        "endOffset": 167
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "outputFile": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 57,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 57,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endLine": 12,
+                        "endColumn": 19,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endLine": 11,
+                    "endColumn": 19,
+                    "endOffset": 681
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endLine": 7,
+                        "endColumn": 19,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 686,
+                    "endColumn": 57,
+                    "endOffset": 739
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\fragmentStaticLayout\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 57,
+                        "endOffset": 108
+                    }
+                }
+            }
+        ]
+    }
+]

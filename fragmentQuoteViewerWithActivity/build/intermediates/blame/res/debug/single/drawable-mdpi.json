@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentQuoteViewerWithActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentQuoteViewerWithActivity\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentQuoteViewerWithActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentQuoteViewerWithActivity\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentQuoteViewerWithActivity\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentQuoteViewerWithActivity\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]

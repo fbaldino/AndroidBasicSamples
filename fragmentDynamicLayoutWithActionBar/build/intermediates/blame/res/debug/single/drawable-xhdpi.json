@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\felipe\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\AndroidBasicSamples\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\felipe\\Android\\BasicUI\\fragmentDynamicLayoutWithActionBar\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

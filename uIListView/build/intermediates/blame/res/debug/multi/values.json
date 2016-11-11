@@ -1,0 +1,137 @@
+[
+    {
+        "outputFile": "D:\\felipe\\Android\\BasicUI\\uIListView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 26,
+                        "endColumn": 19,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 47,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\BasicUI\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\felipe\\uIListView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 26,
+                        "endColumn": 19,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 47,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\felipe\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\felipe\\Android\\AndroidBasicSamples\\uIListView\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 23,
+                    "endColumn": 19,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endLine": 26,
+                        "endColumn": 19,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 47,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "D:\\felipe\\Android\\AndroidBasicSamples\\uIListView\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

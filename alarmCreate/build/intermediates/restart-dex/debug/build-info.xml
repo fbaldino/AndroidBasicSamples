@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="17"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="3071759363345"
+    token="8370658522590589688"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="D:\felipe\Android\felipe\alarmCreate\build\outputs\apk\alarmCreate-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="3071759363345"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\felipe\Android\felipe\alarmCreate\build\outputs\apk\alarmCreate-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
